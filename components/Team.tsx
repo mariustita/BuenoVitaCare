@@ -4,25 +4,25 @@ import type { TeamMember } from '../types';
 
 const teamMembers: TeamMember[] = [
   {
-    imageUrl: 'https://picsum.photos/400/400?image=669',
+    imageUrl: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     name: 'Dr. Ana Popescu',
     specialty: 'Medic Primar Recuperare Medicală',
     bio: 'Cu peste 15 ani de experiență, Dr. Popescu este specializată în recuperarea post-traumatică și afecțiuni neurologice.'
   },
   {
-    imageUrl: 'https://picsum.photos/400/400?image=684',
+    imageUrl: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     name: 'Mihai Ionescu',
     specialty: 'Kinetoterapeut Principal',
     bio: 'Expert în terapie manuală și programe de exerciții personalizate, Mihai ajută pacienții să-și recapete mobilitatea.'
   },
   {
-    imageUrl: 'https://picsum.photos/400/400?image=778',
+    imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     name: 'Elena Radu',
     specialty: 'Terapeut Ocupațional',
     bio: 'Elena este dedicată reintegrării pacienților în activitățile cotidiene, crescând autonomia și calitatea vieții.'
   },
    {
-    imageUrl: 'https://picsum.photos/400/400?image=836',
+    imageUrl: 'https://images.unsplash.com/photo-1537368910025-700350fe46c7?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     name: 'Dr. Cristian Vasilescu',
     specialty: 'Psiholog Clinician',
     bio: 'Oferă suport psihologic esențial pacienților și familiilor acestora pe parcursul procesului de recuperare.'
